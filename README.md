@@ -1,10 +1,9 @@
 # 🚀 Scalable REST API with Authentication & RBAC
 
-#GitHub Repository:
-https://github.com/your-username/scalable-rest-api-assignment
+
 
 #Live Application:
-https://your-frontend.vercel.app
+https://scalable-rest-api-assignment-i1vshx5yq-aasimjadafs-projects.vercel.app/
 
 
 #Backend API:
