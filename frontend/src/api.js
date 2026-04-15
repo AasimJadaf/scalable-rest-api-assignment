@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://scalable-rest-api-assignment.onrender.com"
+  baseURL: "https://scalable-rest-api-assignment.onrender.com/api"
 });
 
 API.interceptors.request.use((req) => {
