@@ -1,5 +1,16 @@
 # 🚀 Scalable REST API with Authentication & RBAC
 
+#GitHub Repository:
+https://github.com/your-username/scalable-rest-api-assignment
+
+#Live Application:
+https://your-frontend.vercel.app
+
+
+#Backend API:
+https://scalable-rest-api-assignment.onrender.com
+
+
 ## 📌 Overview
 This project is a full-stack application demonstrating a scalable backend system with authentication and role-based access control (RBAC), along with a simple frontend UI to interact with APIs.
 
