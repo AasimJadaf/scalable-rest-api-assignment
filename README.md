@@ -10,7 +10,9 @@ https://scalable-rest-api-assignment-i1vshx5yq-aasimjadafs-projects.vercel.app/
 https://scalable-rest-api-assignment.onrender.com
 
 #Demo User: 
-User Name- aasim@test.com
+UserName- aasim@test.com
+
+
 Password- 123456
 
 
