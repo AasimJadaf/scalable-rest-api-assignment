@@ -9,6 +9,11 @@ https://scalable-rest-api-assignment-i1vshx5yq-aasimjadafs-projects.vercel.app/
 #Backend API:
 https://scalable-rest-api-assignment.onrender.com
 
+#Demo User: 
+User Name- aasim@test.com
+Password- 123456
+
+
 
 ## 📌 Overview
 This project is a full-stack application demonstrating a scalable backend system with authentication and role-based access control (RBAC), along with a simple frontend UI to interact with APIs.
